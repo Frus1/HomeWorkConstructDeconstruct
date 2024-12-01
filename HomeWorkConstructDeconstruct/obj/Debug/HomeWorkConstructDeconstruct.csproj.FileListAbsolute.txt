@@ -1,0 +1,15 @@
+C:\Users\frust\source\repos\HomeWorkConstructDeconstruct\HomeWorkConstructDeconstruct\bin\Debug\HomeWorkConstructDeconstruct.exe.config
+C:\Users\frust\source\repos\HomeWorkConstructDeconstruct\HomeWorkConstructDeconstruct\bin\Debug\HomeWorkConstructDeconstruct.exe
+C:\Users\frust\source\repos\HomeWorkConstructDeconstruct\HomeWorkConstructDeconstruct\bin\Debug\HomeWorkConstructDeconstruct.pdb
+C:\Users\frust\source\repos\HomeWorkConstructDeconstruct\HomeWorkConstructDeconstruct\obj\Debug\HomeWorkConstructDeconstruct.csproj.AssemblyReference.cache
+C:\Users\frust\source\repos\HomeWorkConstructDeconstruct\HomeWorkConstructDeconstruct\obj\Debug\MainWindow.g.cs
+C:\Users\frust\source\repos\HomeWorkConstructDeconstruct\HomeWorkConstructDeconstruct\obj\Debug\App.g.cs
+C:\Users\frust\source\repos\HomeWorkConstructDeconstruct\HomeWorkConstructDeconstruct\obj\Debug\HomeWorkConstructDeconstruct_MarkupCompile.cache
+C:\Users\frust\source\repos\HomeWorkConstructDeconstruct\HomeWorkConstructDeconstruct\obj\Debug\HomeWorkConstructDeconstruct_MarkupCompile.lref
+C:\Users\frust\source\repos\HomeWorkConstructDeconstruct\HomeWorkConstructDeconstruct\obj\Debug\MainWindow.baml
+C:\Users\frust\source\repos\HomeWorkConstructDeconstruct\HomeWorkConstructDeconstruct\obj\Debug\HomeWorkConstructDeconstruct.g.resources
+C:\Users\frust\source\repos\HomeWorkConstructDeconstruct\HomeWorkConstructDeconstruct\obj\Debug\HomeWorkConstructDeconstruct.Properties.Resources.resources
+C:\Users\frust\source\repos\HomeWorkConstructDeconstruct\HomeWorkConstructDeconstruct\obj\Debug\HomeWorkConstructDeconstruct.csproj.GenerateResource.cache
+C:\Users\frust\source\repos\HomeWorkConstructDeconstruct\HomeWorkConstructDeconstruct\obj\Debug\HomeWorkConstructDeconstruct.csproj.CoreCompileInputs.cache
+C:\Users\frust\source\repos\HomeWorkConstructDeconstruct\HomeWorkConstructDeconstruct\obj\Debug\HomeWorkConstructDeconstruct.exe
+C:\Users\frust\source\repos\HomeWorkConstructDeconstruct\HomeWorkConstructDeconstruct\obj\Debug\HomeWorkConstructDeconstruct.pdb
